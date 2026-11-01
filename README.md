@@ -1,6 +1,8 @@
 # Learnings
 (NOT PROJECT) My personal list to self-teach the skills necessary for the current landscape of Software Engineering fast, free and just as in-depth.
 
+API Playlist: https://www.youtube.com/watch?v=XvFmUE-36Kc&list=PL_c9BZzLwBRIHUNeoywVJXViXGEsk6PDr&index=2
+
 Systems Design:
 System Design for Beginners (2026) -- https://www.youtube.com/watch?v=SE2KF-vxvS0
 
