@@ -1,6 +1,13 @@
 # Learnings
 (NOT PROJECT) My personal list to self-teach the skills necessary for the current landscape of Software Engineering fast, free and just as in-depth.
 
+Udemy:
+- https://www.udemy.com/share/104yva3@eEtspDy5-U3yMy6EH1kfiho4oNRFyB2XQIXQiIUKdFoSwENgHKki8EjQaF5ilHjiIw==/
+- https://www.udemy.com/share/10fp7p3@GFuwqk36G-oWXxl0C5sy8AXpYdeY5sGZzZExnfJK7Xci4QOsnGik4qZR92zCzS1Uvg==/
+- https://www.udemy.com/share/10cXpn3@5yZOGsik-QWbnsWJSyfQmyrBGrxceOE-CLVSFQj8z0ohevGsvD7LrVHv8KUruIvfIQ==/
+- https://www.udemy.com/share/10fLuz3@k1uCR_MdqqjCSMIIKqXwMudn4BGmBcodAz2CP_D-uVAbe57ZKFrsB3muio1bwHOfQQ==/
+- https://www.udemy.com/share/10ejSx3@YF4-wSMzikHurqFYsTNzEWgh3fGfMtJuHu7e8mvqPu5qZsNAuoC55_eStIlJa-DjVw==/
+
 API Playlist: https://www.youtube.com/watch?v=XvFmUE-36Kc&list=PL_c9BZzLwBRIHUNeoywVJXViXGEsk6PDr&index=2
 
 Systems Design:
