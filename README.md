@@ -1,5 +1,5 @@
 # Learnings
-(NOT PROJECT) My personal list to self-teach the skills necessary for the current landscape of Software Engineering fast, free and just as in-depth.
+(NOT PROJECT) My personal list to self-teach the comprehension necessary for the current landscape of Software Engineering
 
 Udemy (buy when discount):
 - https://www.udemy.com/share/104yva3@eEtspDy5-U3yMy6EH1kfiho4oNRFyB2XQIXQiIUKdFoSwENgHKki8EjQaF5ilHjiIw==/
@@ -24,6 +24,4 @@ Agentic Work:
 Vibe Coding Has A Security Problem (And How To Fix It) -- https://www.youtube.com/watch?v=tK4NQtzfZbM
 When Vibe Coding, Avoid These 6 Security Risks! -- https://www.youtube.com/watch?v=5kWLPYAL8f0
 Context Engineering for AI Agents: 4 Failure Modes to Avoid -- https://www.youtube.com/watch?v=BwXremQ-i6I
-
-Cybersecurity:
-
+AI Hero
